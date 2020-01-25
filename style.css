@@ -9,7 +9,7 @@
   min-height: 100vh;
 }
 body {
-  background-image: url('../images/mainBcg.jpeg');
+  background-image: url('https://raw.githubusercontent.com/Calvin087/counter/master/images/mainBcg.jpeg');
   background-position: left top;
   background-size: cover;
   color: var(--mainWhite);
